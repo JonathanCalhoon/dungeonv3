@@ -1,0 +1,83 @@
+|                                                      |
+|                      CONTROLS                        |
+|                                                      |
+|    WASD or ARROW KEYS to move a around the map.      |
+|                                                      |
+|                                                      |
+|    1 - See Stats                                     |
+|                                                      |
+|    2 - Edit Loadout                                  |
+|                                                      |
+|    3 - Manual Save (The game will automatically      |
+|    save every 10 moves.)                             |
+|                                                      |
+|    4 - Force Clear the Screen                        |
+|                                                      |
+|    5 - Change Display Settings                       |
+|                                                      |
+|    6 - Exit the Dungeon with your gold Warning:      |
+|    This ends the game, you survived, but didn't      |
+|    Win.                                              |
+|                                                      |
+|    0 - Save and Exit (Does not end the game)         |
+|                                                      |
+PART
+|                                                      |
+|                     MAP LEGEND                       |
+|     (Only True if you don't make custom changes)     |
+|                                                      |
+|    p - Player                                        |
+|                                                      |
+|    [] - Treasure                                     |
+|                                                      |
+|    @ - Portal                                        |
+|                                                      |
+|    * - Shard                                         |
+|                                                      |
+|    # - Walls                                         |
+|                                                      |
+|    <Capital Letter> - Enemy                          |
+|                                                      |
+PART
+|                                                      |
+|                   WEAPONS AND ARMOR                  |
+|                                                      |
+|                       WEAPONS                        |
+|                                                      |
+|    DMG - Base Damage                                 |
+|                                                      |
+|    SHRP - The sharpness of the weapon. This stat     |
+|    has a lot to do with how much damage the weapon   |
+|    does against armor                                |
+|                                                      |
+|    WGHT - The damage multiplier                      |
+|                                                      |
+|                       ARMOR                          |
+|                                                      |
+|    ARMOR - How strong the Armor is                   |
+|                                                      |
+|                       TIERS                          |
+|                                                      |
+|    There are tiers 0-6 with 0 being the absolute     |
+|    low and 6 being all stats are max.                |
+|    Tier is calculated based on DMG, SHRP and WGHT    |
+|    for weapons and ARMOR for armor.                  |
+|                                                      |
+PART
+|                                                      |
+|                       BATTLE                         |
+|                                                      |
+|    attack <target> attack the enemy                  |
+|                                                      |
+|    magicae <spell> to use magic                      |
+|                                                      |
+|    drink <potion> drink a potion.                    |
+|                                                      |
+|                       SPELLS                         |
+|                                                      |
+|    sana ego - Heals you                              |
+|    sana vulnera - Heals Wounds                       |
+|    confirma defensio - increase defense              |
+|    confirma impetum - incrase attack                 |
+|    noxa hostilis - All Enemies have 50 Damage        |
+|                                                      |

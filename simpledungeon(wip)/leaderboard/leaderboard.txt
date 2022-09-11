@@ -1,0 +1,1 @@
+[{"username": "Me(V2)", "gold": 60, "depth": 4, "level": 2}, {"username": "Me", "gold": 28, "depth": 1, "level": 1}, {"username": "Loser", "gold": 0, "depth": 1, "level": 1}]

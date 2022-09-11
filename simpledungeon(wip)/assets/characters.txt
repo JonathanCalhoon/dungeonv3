@@ -1,0 +1,89 @@
+|                                     |
+|         KNIGHT                      |
+|                                     |
+|        __                           |
+|       [--]   HP: 120                |
+|      \/||\}                         |
+|        /\                           |
+|                                     |
+|      + Increased Damage             |
+|      + Increased Durability         |
+|      + Better Spawn Armor/Weapon    |
+|                                     |
+|      - Cannot use Magic             |
+|                                     |
+|                                     |
+|                                     |
+      <- ----- -ENTER- left ->         
+FRAME
+|                                     |
+|         ARCHER                      |
+|                                     |
+|       __                            |
+|      (OO)|\   HP: 75                |
+|      \||-||->                       |
+|       /\ |/                         |
+|                                     |
+|     + Spawns with Bow               |
+|                                     |
+|     - Cannot use Magic              |
+|     - Lower HP                      |
+|                                     |
+|                                     |
+|                                     |
+|                                     |
+      <- right -ENTER- left ->         
+FRAME
+|                                     |
+|         WIZARD                      |
+|                                     |
+|       __                            |
+|      (**)  HP: 80                   |
+|      //\\                           |
+|      /__\                           |
+|                                     |
+|     + Increased Magic               |
+|     + Increased Durability          |
+|                                     |
+|     - Lower HP                      |
+|                                     |
+|                                     |
+|                                     |
+|                                     |
+      <- right -ENTER- left ->         
+FRAME
+|                                     |
+|         HUMAN                       |
+|                                     |
+|       __                            |
+|      (oo)  HP: 100                  |
+|      /||\                           |
+|       /\                            |
+|                                     |
+|     + Nothing                       |
+|                                     |
+|     - Nothing                       |
+|                                     |
+|                                     |
+|                                     |
+|                                     |
+|                                     |
+      <- right -ENTER- left ->         
+FRAME
+|                                     |
+|         SKELETON                    |
+|                                     |
+|       __                            |
+|      (xx)  HP: 50                   |
+|      /][\                           |
+|       /\                            |
+|                                     |
+|     + Other skeleteons will not     |
+|        attack                       |
+|     + HP regens after battle        |
+|                                     |
+|     - Cannot use Magic              |
+|     - Low HP                        |
+|                                     |
+|                                     |
+      <- right -ENTER- ---- ->         

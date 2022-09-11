@@ -1,0 +1,1 @@
+{"colors": ["\u001b[34m", "\u001b[1m"], "walls": "\u001b[0m\u001b[1m # \u001b[0m", "floor": "   ", "empty": " . ", "treasure": " []", "player": " X ", "shards": "\u001b[34m * \u001b[0m", "portal": " @ ", "play-spawn-animation": false}
